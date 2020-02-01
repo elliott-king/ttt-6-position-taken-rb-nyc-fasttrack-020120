@@ -1,6 +1,5 @@
 # code your #position_taken? method here!
 def position_taken?(board, i)
-  return 1
   if board.size <= i
     return false
   end
