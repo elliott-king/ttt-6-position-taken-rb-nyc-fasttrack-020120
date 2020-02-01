@@ -1,5 +1,5 @@
 # code your #position_taken? method here!
-def position_taken()
+def position_taken()?
   puts "hello there"
   if board.size <= i
     return false
