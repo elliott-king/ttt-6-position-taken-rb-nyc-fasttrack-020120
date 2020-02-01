@@ -4,7 +4,7 @@ def position_taken()
   if board.size <= i
     return false
   end
-  
+
   if board[i] == 'X' || board[i] == 'O'
     return true
   else
